@@ -1,7 +1,3 @@
-## Prerequisites
-
-Install [NPM](https://www.npmjs.com/) and [Node.js](https://nodejs.org/en/download/)
-https://shrestharosy.github.io/mobx-demo-post-reactions/
 ## Scripts
 In the project directory you can run:
 
