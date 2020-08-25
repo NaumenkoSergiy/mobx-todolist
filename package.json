@@ -1,0 +1,44 @@
+{
+  "name": "mobx-demo-post-reactions",
+  "version": "1.0.0",
+  "description": "A simle app to showcae mobx features",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server",
+    "build": "webpack --mode development",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shrestharosy/mobx-demo-post-reactions.git"
+  },
+  "keywords": [],
+  "author": "Rosy Shrestha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shrestharosy/mobx-demo-post-reactions/issues"
+  },
+  "homepage": "http://shrestharosy.github.io/mobx-demo-post-reactions",
+  "devDependencies": {
+    "@babel/core": "^7.7.7",
+    "@babel/plugin-proposal-class-properties": "^7.8.3",
+    "@babel/plugin-proposal-decorators": "^7.8.3",
+    "@babel/preset-env": "^7.7.7",
+    "@babel/preset-react": "^7.7.4",
+    "babel-loader": "^8.0.6",
+    "css-loader": "^3.4.2",
+    "html-webpack-plugin": "^3.2.0",
+    "style-loader": "^1.1.2",
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10",
+    "webpack-dev-server": "^3.10.1"
+  },
+  "dependencies": {
+    "classnames": "^2.2.6",
+    "mobx": "^5.15.2",
+    "mobx-react": "^6.1.5",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "todomvc-app-css": "^2.3.0"
+  }
+}
